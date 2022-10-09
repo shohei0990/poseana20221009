@@ -1,0 +1,5 @@
+pandas
+streamlit==1.13.0
+mediapipe==0.8.9.1
+numpy==1.22.4
+opencv-python--headless
